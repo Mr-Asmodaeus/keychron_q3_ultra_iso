@@ -1,0 +1,6 @@
+name: keychron_q3_ultra_iso_module
+build:
+  settings:
+    board_root: .
+  cmake: .
+  kconfig: Kconfig
